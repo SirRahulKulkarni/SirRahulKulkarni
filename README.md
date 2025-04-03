@@ -2,7 +2,8 @@
 
 [![Blender](https://img.shields.io/badge/-RahulKULKARNI-orange?style=flat-square&logo=blender&logoColor=white&link=https://projects.blender.org/RahulKULKARNI)](https://projects.blender.org/RahulKULKARNI)
 [![LinkedIn](https://img.shields.io/badge/-Rahul%20KULKARNI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsuhaskulkarni/)](https://www.linkedin.com/in/rahulsuhaskulkarni/)
-[![Gmail](https://img.shields.io/badge/-RahulKULKARNI-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahul.suhas.kulkarni@gmail.com)](mailto:rahul.suhas.kulkarni@gmail.com)</br>
+[![Gmail](https://img.shields.io/badge/-RahulKULKARNI-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahul.suhas.kulkarni@gmail.com)](mailto:rahul.suhas.kulkarni@gmail.com)
+[![YouTube](https://img.shields.io/badge/-IndianScaleModeler-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/IndianScaleModeler)](https://www.youtube.com/IndianScaleModeler)<</br>
 
 An Engineering professional contributing to open source projects.</br>
 I'm passionate about Computer Graphics, Computer Vision and learning new things</br>

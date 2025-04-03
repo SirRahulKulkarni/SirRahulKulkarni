@@ -1,5 +1,6 @@
 ## Hi there 👋 I am Rahul Kulkarni
 
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://projects.blender.org/RahulKULKARNI)
 ---
 
 Here are some ideas to get you started:

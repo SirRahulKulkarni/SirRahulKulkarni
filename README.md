@@ -1,14 +1,31 @@
-## Hi there 👋 I am Rahul Kulkarni
+### Hey, I'm Rahul KULKARNI 👋
 
 [![Blender](https://img.shields.io/badge/-RahulKULKARNI-orange?style=flat-square&logo=blender&logoColor=white&link=https://projects.blender.org/RahulKULKARNI)](https://projects.blender.org/RahulKULKARNI)
 [![LinkedIn](https://img.shields.io/badge/-Rahul%20KULKANI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsuhaskulkarni/)](https://www.linkedin.com/in/rahulsuhaskulkarni/)
+[![Gmail](https://img.shields.io/badge/-rahul.suhas.kulkarni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahul.suhas.kulkarni@gmail.com)](mailto:rahul.suhas.kulkarni@gmail.com)</br>
+
+An Engineering professional contributing to open source projects.</br>
+I'm passinoate about Computer Graphics, Computer Vision and learning new things</br>
 ---
 
-Here are some ideas to get you started:
+**Tools:**
+</br>
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/-unity-black?style=flat-square&logo=unity)
+![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
+![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-skyblue?style=flat-square&logo=docker)
+![CMake](https://img.shields.io/badge/-CMake-red?style=flat-square&logo=cmake)
+</br>
 
-- 🔭 I’m currently working on building simulator for AgTech
-- 🌱 I’m currently learning Computer Vision & Image Processing
-- 📫 How to reach me: Ping me on my LinkedIn (link below)
+**Languages:**
+</br>
+
+<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
+</br>
+
 - ⚡ Fun fact: I build scale models and publish my build videos on my channel @
 
 

@@ -5,12 +5,13 @@
 [![Gmail](https://img.shields.io/badge/-RahulKULKARNI-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahul.suhas.kulkarni@gmail.com)](mailto:rahul.suhas.kulkarni@gmail.com)</br>
 
 An Engineering professional contributing to open source projects.</br>
-I'm passinoate about Computer Graphics, Computer Vision and learning new things</br>
+I'm passionate about Computer Graphics, Computer Vision and learning new things</br>
 ---
 
 **Tools:**
 </br>
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine)
+
 ![Unity](https://img.shields.io/badge/-unity-black?style=flat-square&logo=unity)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
 ![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)

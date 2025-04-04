@@ -8,23 +8,13 @@
 An Engineering professional contributing to open source projects.</br>
 I'm passionate about Computer Graphics, Computer Vision and learning new things</br>
 ---
-
-**Tools:**
-</br>
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine)
-![Unity](https://img.shields.io/badge/-unity-black?style=flat-square&logo=unity)
-![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
-![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-skyblue?style=flat-square&logo=docker)
-![CMake](https://img.shields.io/badge/-CMake-red?style=flat-square&logo=cmake)
-</br>
-
-- ⚡ Fun fact: I build scale models and publish my build videos on my channel @
+- ⚡ Fun fact: I build scale models and publish my build videos on my channel [@IndianScaleModeler](https://www.youtube.com/IndianScaleModeler) on YouTube
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsuhaskulkarni) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@indianscalemodeler) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsuhaskulkarni)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@indianscalemodeler) 
 
-# 💻 Tech Stack:
+## 💻 Tools & Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,7 +35,7 @@ I'm passionate about Computer Graphics, Computer Vision and learning new things<
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SirRahulKulkarni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SirRahulKulkarni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SirRahulKulkarni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

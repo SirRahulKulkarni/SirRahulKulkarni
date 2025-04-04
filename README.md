@@ -1,4 +1,4 @@
-### Hey, I'm Rahul KULKARNI 👋
+# Hey, I'm Rahul KULKARNI 👋
 
 [![Blender](https://img.shields.io/badge/-RahulKULKARNI-orange?style=flat-square&logo=blender&logoColor=white&link=https://projects.blender.org/RahulKULKARNI)](https://projects.blender.org/RahulKULKARNI)
 [![LinkedIn](https://img.shields.io/badge/-Rahul%20KULKARNI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsuhaskulkarni/)](https://www.linkedin.com/in/rahulsuhaskulkarni/)
